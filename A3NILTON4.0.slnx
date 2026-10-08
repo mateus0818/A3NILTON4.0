@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="A3NILTON4.0/A3NILTON4.0.vcxproj" />
+</Solution>
